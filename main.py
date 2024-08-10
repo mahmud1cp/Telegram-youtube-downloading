@@ -47,7 +47,7 @@ def error(update: Update, context: CallbackContext) -> None:
 
 # Main function to run the bot
 def main() -> None:
-    token = "YOUR_TELEGRAM_BOT_TOKEN"  # Insert your Telegram bot token here
+    token = "7080259442:AAGkZfPr4bi0oNgJuU3TF0bgo-9dc2OflzE"  # Insert your Telegram bot token here
 
     updater = Updater(token, use_context=True)
 
